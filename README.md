@@ -50,16 +50,19 @@
 
 [An Empirical Study of Spatial Attention Mechanisms in Deep Networks](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhu_An_Empirical_Study_of_Spatial_Attention_Mechanisms_in_Deep_Networks_ICCV_2019_paper.pdf). Xizhou Zhu, Dazhi Cheng, Zheng Zhang, Stephen Lin, Jifeng Dai. ICCV 2019.
 
-[Local Relation Networks for Image Recognition](https://openaccess.thecvf.com/content_ICCV_2019/papers/Hu_Local_Relation_Networks_for_Image_Recognition_ICCV_2019_paper.pdf). Han Hu, Zheng Zhang, Zhenda Xie, Stephen Lin. ICCV 2019.
+
+[Attention Augmented Convolutional Networks](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bello_Attention_Augmented_Convolutional_Networks_ICCV_2019_paper.pdf). Irwan Bello, Barret Zoph, Ashish Vaswani, Jonathon Shlens, Quoc V. Le. ICCV 2019.
 
 [Disentangled Non-Local Neural Networks](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600188.pdf). Minghao Yin, Zhuliang Yao, Yue Cao, Xiu Li, Zheng Zhang, Stephen Lin, Han Hu. ECCV 2020.
 
 <a name="papers-early"></a>
 ## Early Attempts
 
+
+[Local Relation Networks for Image Recognition](https://openaccess.thecvf.com/content_ICCV_2019/papers/Hu_Local_Relation_Networks_for_Image_Recognition_ICCV_2019_paper.pdf). Han Hu, Zheng Zhang, Zhenda Xie, Stephen Lin. ICCV 2019.
+
 [Stand-Alone Self-Attention in Vision Models](https://papers.nips.cc/paper/2019/file/3416a75f4cea9109507cacd8e2f2aefc-Paper.pdf). Prajit Ramachandran, Niki Parmar, Ashish Vaswani, Irwan Bello, Anselm Levskaya, Jonathon Shlens. NIPS 2019.
 
-[Attention Augmented Convolutional Networks](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bello_Attention_Augmented_Convolutional_Networks_ICCV_2019_paper.pdf). Irwan Bello, Barret Zoph, Ashish Vaswani, Jonathon Shlens, Quoc V. Le. ICCV 2019.
 
 [Exploring Self-attention for Image Recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Exploring_Self-Attention_for_Image_Recognition_CVPR_2020_paper.pdf). Hengshuang Zhao, Jiaya Jia, Vladlen Koltun. CVPR 2020.
 
