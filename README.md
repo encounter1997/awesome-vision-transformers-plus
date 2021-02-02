@@ -23,7 +23,6 @@
 	- [Theory](#papers-theory)
 	- [Survey](#papers-survey)
 	- [Others](#papers-others)
-	- [Music Modeling](#papers-music)
 
 
 <a name="papers-and-resources"></a>
@@ -146,6 +145,8 @@
 
 [Video Action Transformer Network](https://arxiv.org/pdf/1812.02707.pdf). Rohit Girdhar, Joao Carreira, Carl Doersch, Andrew Zisserman. CVPR 2019.
 
+[Video Transformer Network](https://arxiv.org/pdf/2102.00719.pdf). Daniel Neimark, Omri Bar, Maya Zohar, Dotan Asselmann. Arxiv 2021.
+
 
 <a name="papers-3d"></a>
 ## 3D Vision Tasks
@@ -188,10 +189,9 @@
 <a name="papers-others"></a>
 ## Others
 
-<a name="papers-music"></a>
-### Music Modeling
-
 [Music Transformer: Generating Music with Long-Term Structure](https://arxiv.org/pdf/1809.04281.pdf). Cheng-Zhi Anna Huang, Ashish Vaswani, Jakob Uszkoreit, Noam Shazeer, Ian Simon, Curtis Hawthorne, Andrew M. Dai, Matthew D. Hoffman, Monica Dinculescu, Douglas Eck. ICLR 2019. 
+
+[Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers](https://arxiv.org//pdf/2102.00529). Lisa Anne Hendricks, John Mellor, Rosalia Schneider, Jean-Baptiste Alayrac, Aida Nematzadeh. Arxiv 2021.
 
 
 
